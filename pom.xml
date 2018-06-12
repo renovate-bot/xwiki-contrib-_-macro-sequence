@@ -29,6 +29,7 @@
   </parent>
   <artifactId>macro-sequence</artifactId>
   <name>Sequence Diagram Macro</name>
+  <description>Draw UML Sequence Diagrams</description>
   <version>1.1-SNAPSHOT</version>
   <packaging>xar</packaging>
   <properties>
