@@ -11,4 +11,4 @@ Draw UML Sequence Diagrams
 * License: LGPL 2.1
 * Translations: N/A
 * Sonar Dashboard: N/A
-* Continuous Integration Status: N/A
+* Continuous Integration Status: [![Build Status](http://ci.xwiki.org/job/XWiki%20Contrib/job/macro-sequence/job/master/badge/icon)](http://ci.xwiki.org/job/XWiki%20Contrib/job/macro-sequence/job/master/)
