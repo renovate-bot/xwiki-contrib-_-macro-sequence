@@ -41,7 +41,7 @@
     <xwiki.extension.category>macro</xwiki.extension.category>
     <!-- Auto release on JIRA -->
     <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
-    <xwiki.issueManagement.jira.id>BLOCKLY</xwiki.issueManagement.jira.id>
+    <xwiki.issueManagement.jira.id>SEQUENCE</xwiki.issueManagement.jira.id>
   </properties>
   <scm>
     <connection>scm:git:git://github.com/xwiki-contrib/macro-sequence.git</connection>
