@@ -42,6 +42,17 @@
     <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
     <xwiki.issueManagement.jira.id>BLOCKLY</xwiki.issueManagement.jira.id>
   </properties>
+  <scm>
+    <connection>scm:git:git://github.com/xwiki-contrib/macro-sequence.git</connection>
+    <developerConnection>scm:git:git@github.com:xwiki-contrib/macro-sequence.git</developerConnection>
+    <url>https://github.com/xwiki-contrib/macro-sequence</url>
+  </scm>
+  <developers>
+    <developer>
+      <id>vmassol</id>
+      <name>Vincent Massol</name>
+    </developer>
+  </developers>
   <dependencies>
     <dependency>
       <groupId>org.xwiki.platform</groupId>
