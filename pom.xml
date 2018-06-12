@@ -38,6 +38,9 @@
     <xwiki.extension.name>Sequence Diagram Macro</xwiki.extension.name>
     <!-- Extension Manager category -->
     <xwiki.extension.category>macro</xwiki.extension.category>
+    <!-- Auto release on JIRA -->
+    <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
+    <xwiki.issueManagement.jira.id>BLOCKLY</xwiki.issueManagement.jira.id>
   </properties>
   <dependencies>
     <dependency>
