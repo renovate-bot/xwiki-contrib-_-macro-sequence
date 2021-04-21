@@ -42,6 +42,11 @@
     <!-- Auto release on JIRA -->
     <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
     <xwiki.issueManagement.jira.id>SEQUENCE</xwiki.issueManagement.jira.id>
+
+    <!-- Components -->
+    <xwiki.extension.components>
+      org.xwiki.rendering.macro.Macro/sequence
+    </xwiki.extension.components>
   </properties>
   <scm>
     <connection>scm:git:git://github.com/xwiki-contrib/macro-sequence.git</connection>
