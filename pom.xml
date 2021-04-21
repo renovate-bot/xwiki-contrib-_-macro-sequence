@@ -30,7 +30,7 @@
   <artifactId>macro-sequence</artifactId>
   <name>Sequence Diagram Macro</name>
   <description>Draw UML Sequence Diagrams</description>
-  <version>1.0.3</version>
+  <version>1.0.4-SNAPSHOT</version>
   <packaging>xar</packaging>
   <properties>
     <!-- Don't run CLIRR here since there's no Java code. -->
@@ -52,7 +52,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/macro-sequence.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/macro-sequence.git</developerConnection>
     <url>https://github.com/xwiki-contrib/macro-sequence</url>
-    <tag>macro-sequence-1.0.3</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
